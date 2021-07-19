@@ -9,9 +9,9 @@ Features of this system:
 4. Displays numbers of registered employee and its sessions
 
 Developers:
-Ferlyn P. Ruiz
-Asiley A. Pepe
-Marilou Y. Rubio
-Maria Ellaine P. Perez
-Emilyn Ranollo
+1. Ferlyn P. Ruiz
+2. Asiley A. Pepe
+3. Marilou Y. Rubio
+4. Maria Ellaine P. Perez
+5. Emilyn Ranollo
 
